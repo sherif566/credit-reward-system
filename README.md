@@ -2,6 +2,7 @@
 
 A scalable Laravel-based system where users can purchase credits, earn reward points, and redeem them for products. Admins can manage product offers and credit packages. Features efficient search and an optional AI-based product recommendation engine.
 
+Walkthrough Link : https://drive.google.com/file/d/1QyG-AmpTi_AH7sBRolPJe7gr4eoTwDh2/view?usp=sharing 
 ---
 
 ## 📦 Features
