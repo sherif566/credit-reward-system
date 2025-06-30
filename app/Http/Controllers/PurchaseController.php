@@ -20,7 +20,7 @@ class PurchaseController extends Controller
 
         $package = CreditPackage::findorFail($request->package_id);
 
-        $user = User::find(1);
+        $user = auth()->user();
 
         // Create purchase record
         $purchase = Purchase::create([
